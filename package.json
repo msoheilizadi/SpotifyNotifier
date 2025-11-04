@@ -1,0 +1,20 @@
+{
+  "name": "spotify-telegram-notifier",
+  "version": "1.0.0",
+  "main": "spotify-telegram-notifier.js",
+  "scripts": {
+    "start": "node spotify-telegram-notifier.js",
+    "dev": "nodemon spotify-telegram-notifier.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "axios": "^1.0.0",
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
+}

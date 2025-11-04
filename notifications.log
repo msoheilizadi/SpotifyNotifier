@@ -1,0 +1,487 @@
+[2025-11-03T16:46:20.600Z] [INFO] Starting poll every 60s for playlist 1r1t5bTmnN0OBfpZwriQja
+[2025-11-03T16:46:20.602Z] [DEBUG] Starting check. lastSnapshot=AAAACrhq6IOihpQ5WP93PM0ZXSfU5HZ4, lastSeenAddedAt=2025-11-03T16:46:01.899Z
+[2025-11-03T16:46:21.864Z] [DEBUG] Current snapshot_id=AAAACrhq6IOihpQ5WP93PM0ZXSfU5HZ4
+[2025-11-03T16:46:21.865Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:47:21.880Z] [DEBUG] Starting check. lastSnapshot=AAAACrhq6IOihpQ5WP93PM0ZXSfU5HZ4, lastSeenAddedAt=2025-11-03T16:46:01.899Z
+[2025-11-03T16:47:22.610Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:47:22.616Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T16:47:23.070Z] [DEBUG] Found total tracks=10, newItems=1
+[2025-11-03T16:47:23.071Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T16:47:44.161Z] [DEBUG] About to notify telegramId=668058250 (recipientName=User_668058250), adder=316kbowk4y3mr3rhysdtpbnikhpa
+[2025-11-03T16:47:44.161Z] [INFO] notify->to:668058250 Attempting to send message: "316kbowk4y3mr3rhysdtpbnikhpa آهنگ جدید به User_668058250 اضافه کرد."
+[2025-11-03T16:48:05.199Z] [ERROR] notify->to:668058250 Failed to send: EFATAL: Error: connect ETIMEDOUT 149.154.167.220:443
+[2025-11-03T16:48:05.561Z] [ERROR] Failed to notify 668058250 about addition by 316kbowk4y3mr3rhysdtpbnikhpa.
+[2025-11-03T16:48:36.789Z] [INFO] Starting poll every 60s for playlist 1r1t5bTmnN0OBfpZwriQja
+[2025-11-03T16:48:36.790Z] [DEBUG] Starting check. lastSnapshot=AAAACrhq6IOihpQ5WP93PM0ZXSfU5HZ4, lastSeenAddedAt=2025-11-03T16:46:01.899Z
+[2025-11-03T16:48:50.016Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:48:50.016Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T16:48:50.292Z] [DEBUG] Found total tracks=10, newItems=1
+[2025-11-03T16:48:50.293Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T16:48:50.837Z] [DEBUG] About to notify telegramId=668058250 (recipientName=Soheil (msoheil81)), adder=316kbowk4y3mr3rhysdtpbnikhpa
+[2025-11-03T16:48:50.838Z] [INFO] notify->to:668058250 Attempting to send message: "316kbowk4y3mr3rhysdtpbnikhpa آهنگ جدید به Soheil (msoheil81) اضافه کرد."
+[2025-11-03T16:48:50.977Z] [INFO] notify->to:668058250 Sent (message_id=5)
+[2025-11-03T16:48:51.339Z] [INFO] Notification sent to 668058250 regarding addition by 316kbowk4y3mr3rhysdtpbnikhpa.
+[2025-11-03T16:48:51.475Z] [DEBUG] About to notify telegramId=7228050327 (recipientName=Sohe), adder=316kbowk4y3mr3rhysdtpbnikhpa
+[2025-11-03T16:48:51.476Z] [INFO] notify->to:7228050327 Attempting to send message: "316kbowk4y3mr3rhysdtpbnikhpa آهنگ جدید به Sohe اضافه کرد."
+[2025-11-03T16:48:51.599Z] [INFO] notify->to:7228050327 Sent (message_id=6)
+[2025-11-03T16:48:51.969Z] [INFO] Notification sent to 7228050327 regarding addition by 316kbowk4y3mr3rhysdtpbnikhpa.
+[2025-11-03T16:48:51.972Z] [INFO] State updated.
+[2025-11-03T16:49:51.987Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:49:52.602Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:49:52.602Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:50:51.992Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:50:52.587Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:50:52.588Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:51:52.000Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:51:52.612Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:51:52.613Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:52:52.015Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:52:52.592Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:52:52.592Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:53:52.030Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:53:52.722Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:53:52.723Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:54:52.036Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:54:52.616Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:54:52.616Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:55:52.055Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:55:52.687Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:55:52.688Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:56:52.060Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:56:52.605Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:56:52.606Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:57:14.538Z] [INFO] Starting poll every 60s for playlist 1r1t5bTmnN0OBfpZwriQja
+[2025-11-03T16:57:14.539Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:57:15.779Z] [DEBUG] Current snapshot_id=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+
+[2025-11-03T16:57:15.780Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T16:58:15.787Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:58:16.372Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T16:58:16.373Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T16:58:16.662Z] [DEBUG] Found total tracks=10, newItems=1
+[2025-11-03T16:58:16.663Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T16:58:16.664Z] [ERROR] Error during checkOnce: recipientName is not defined
+[2025-11-03T16:59:01.799Z] [INFO] Starting poll every 60s for playlist 1r1t5bTmnN0OBfpZwriQja
+[2025-11-03T16:59:01.800Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:59:03.056Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T16:59:03.056Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T16:59:03.325Z] [DEBUG] Found total tracks=10, newItems=1
+[2025-11-03T16:59:03.325Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T16:59:03.325Z] [ERROR] Error during checkOnce: getTelegramDisplayName is not defined
+[2025-11-03T16:59:10.275Z] [INFO] Starting poll every 60s for playlist 1r1t5bTmnN0OBfpZwriQja
+[2025-11-03T16:59:10.276Z] [DEBUG] Starting check. lastSnapshot=AAAAC9CuiYM98DAuViC3DIryX+FwAL3+, lastSeenAddedAt=2025-11-03T16:46:32Z
+[2025-11-03T16:59:11.412Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T16:59:11.413Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T16:59:11.606Z] [DEBUG] Found total tracks=10, newItems=1
+[2025-11-03T16:59:11.607Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T16:59:12.288Z] [DEBUG] About to notify telegramId=668058250 (recipientName=Soheil (msoheil81)), adder=سهیل
+[2025-11-03T16:59:12.288Z] [INFO] notify->to:668058250 Attempting to send message: "سهیل آهنگ جدید اضافه کرد."
+[2025-11-03T16:59:12.455Z] [INFO] notify->to:668058250 Sent (message_id=7)
+[2025-11-03T16:59:12.813Z] [INFO] Notification sent to 668058250 regarding addition by سهیل.
+[2025-11-03T16:59:12.990Z] [DEBUG] About to notify telegramId=7228050327 (recipientName=Sohe), adder=سهیل
+[2025-11-03T16:59:12.991Z] [INFO] notify->to:7228050327 Attempting to send message: "سهیل آهنگ جدید اضافه کرد."
+[2025-11-03T16:59:13.145Z] [INFO] notify->to:7228050327 Sent (message_id=8)
+[2025-11-03T16:59:13.503Z] [INFO] Notification sent to 7228050327 regarding addition by سهیل.
+[2025-11-03T16:59:13.507Z] [INFO] State updated.
+[2025-11-03T17:00:13.509Z] [DEBUG] Starting check. lastSnapshot=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps, lastSeenAddedAt=2025-11-03T16:57:32Z
+[2025-11-03T17:00:14.152Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T17:00:14.153Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:01:13.518Z] [DEBUG] Starting check. lastSnapshot=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps, lastSeenAddedAt=2025-11-03T16:57:32Z
+[2025-11-03T17:01:14.153Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T17:01:14.154Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:02:13.527Z] [DEBUG] Starting check. lastSnapshot=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps, lastSeenAddedAt=2025-11-03T16:57:32Z
+[2025-11-03T17:02:14.132Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T17:02:14.132Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:03:13.542Z] [DEBUG] Starting check. lastSnapshot=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps, lastSeenAddedAt=2025-11-03T16:57:32Z
+[2025-11-03T17:03:14.027Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T17:03:14.027Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:04:13.550Z] [DEBUG] Starting check. lastSnapshot=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps, lastSeenAddedAt=2025-11-03T16:57:32Z
+[2025-11-03T17:04:14.250Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T17:04:14.251Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:09:37.648Z] [INFO] Starting poll every 60s for playlist 1r1t5bTmnN0OBfpZwriQja
+[2025-11-03T17:09:37.649Z] [DEBUG] Starting check. lastSnapshot=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps, lastSeenAddedAt=2025-11-03T16:57:32Z
+[2025-11-03T17:09:39.071Z] [DEBUG] Current snapshot_id=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps
+[2025-11-03T17:09:39.072Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:10:39.073Z] [DEBUG] Starting check. lastSnapshot=AAAADX95Xj0H4e/z1An6v2hAEEre/9ps, lastSeenAddedAt=2025-11-03T16:57:32Z
+[2025-11-03T17:10:39.650Z] [DEBUG] Current snapshot_id=AAAADpMsj3NyDbOsSdAhcA9IVoS3jxhZ
+[2025-11-03T17:10:39.651Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T17:10:39.956Z] [DEBUG] Found total tracks=11, newItems=1
+[2025-11-03T17:10:39.956Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T17:10:39.957Z] [DEBUG] About to notify telegramId=668058250, adder=سهیل
+[2025-11-03T17:10:39.958Z] [INFO] notify->to:668058250 Attempting to send message: "سهیل آهنگ جدید اضافه کرد."
+[2025-11-03T17:10:40.769Z] [INFO] notify->to:668058250 Sent (message_id=9)
+[2025-11-03T17:10:41.132Z] [INFO] Notification sent to 668058250 regarding addition by سهیل.
+[2025-11-03T17:10:41.135Z] [INFO] State updated.
+[2025-11-03T17:11:39.082Z] [DEBUG] Starting check. lastSnapshot=AAAADpMsj3NyDbOsSdAhcA9IVoS3jxhZ, lastSeenAddedAt=2025-11-03T17:09:53Z
+[2025-11-03T17:11:39.609Z] [DEBUG] Current snapshot_id=AAAADpMsj3NyDbOsSdAhcA9IVoS3jxhZ
+[2025-11-03T17:11:39.610Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:13:20.124Z] [INFO] Starting poll every 60s for playlist 1zQb8QKDW03EaHhz8uJvDB
+[2025-11-03T17:13:20.125Z] [DEBUG] Starting check. lastSnapshot=AAAADpMsj3NyDbOsSdAhcA9IVoS3jxhZ, lastSeenAddedAt=2025-11-03T17:09:53Z
+[2025-11-03T17:13:21.445Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:13:21.446Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T17:13:21.759Z] [DEBUG] Found total tracks=17, newItems=0
+[2025-11-03T17:13:21.760Z] [WARN] Snapshot changed but no items newer than lastSeenAddedAt were found. Updating state.
+[2025-11-03T17:14:21.783Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:14:22.355Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:14:22.356Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:15:21.795Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:15:22.516Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:15:22.517Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:16:21.815Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:16:22.401Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:16:22.401Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:17:21.820Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:17:22.430Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:17:22.432Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:18:21.831Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:18:22.398Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:18:22.399Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:19:21.847Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:19:22.381Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:19:22.383Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:20:21.856Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:20:22.594Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:20:22.596Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:21:21.859Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:21:22.453Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:21:22.454Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:22:21.865Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:22:22.629Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:22:22.630Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:23:21.875Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:23:22.724Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:23:22.724Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:24:21.888Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:24:22.885Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:24:22.885Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:25:21.898Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:25:22.552Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:25:22.552Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:26:21.901Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:26:22.698Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:26:22.699Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:27:21.907Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:27:22.600Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:27:22.601Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:28:21.917Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:28:22.425Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:28:22.426Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:29:21.919Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:29:22.897Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:29:22.897Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:30:21.936Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:30:23.155Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:30:23.155Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:31:21.938Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:31:22.541Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:31:22.541Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:32:21.943Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:32:22.727Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:32:22.727Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:33:21.954Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:33:22.536Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:33:22.537Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:34:21.962Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:34:22.817Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:34:22.818Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:35:21.969Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:35:22.558Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:35:22.559Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:36:21.977Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:36:22.547Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:36:22.550Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:37:21.987Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:37:30.857Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:37:30.858Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:38:21.994Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:38:22.634Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:38:22.635Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:39:21.998Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:39:22.629Z] [DEBUG] Current snapshot_id=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce
+[2025-11-03T17:39:22.630Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:40:22.008Z] [DEBUG] Starting check. lastSnapshot=AAAAF86SvwEb4tBkmBBj6MNJ6fLuJ4Ce, lastSeenAddedAt=2025-11-03T17:13:21.760Z
+[2025-11-03T17:40:22.661Z] [DEBUG] Current snapshot_id=AAAAGIo6fJD6GQ9Ds4teL4z9h9z77oK/
+[2025-11-03T17:40:22.661Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T17:40:23.039Z] [DEBUG] Found total tracks=18, newItems=1
+[2025-11-03T17:40:23.039Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T17:40:23.042Z] [DEBUG] About to notify telegramId=5183071222, adder=عسل
+[2025-11-03T17:40:23.042Z] [INFO] notify->to:5183071222 Attempting to send message: "عسل آهنگ جدید اضافه کرد."
+[2025-11-03T17:40:23.647Z] [INFO] notify->to:5183071222 Sent (message_id=10)
+[2025-11-03T17:40:24.004Z] [INFO] Notification sent to 5183071222 regarding addition by عسل.
+[2025-11-03T17:40:24.005Z] [INFO] State updated.
+[2025-11-03T17:41:22.015Z] [DEBUG] Starting check. lastSnapshot=AAAAGIo6fJD6GQ9Ds4teL4z9h9z77oK/, lastSeenAddedAt=2025-11-03T17:39:51Z
+[2025-11-03T17:41:22.611Z] [DEBUG] Current snapshot_id=AAAAGIo6fJD6GQ9Ds4teL4z9h9z77oK/
+[2025-11-03T17:41:22.612Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:41:43.349Z] [INFO] Starting poll every 60s for playlist 1zQb8QKDW03EaHhz8uJvDB
+[2025-11-03T17:41:43.350Z] [DEBUG] Starting check. lastSnapshot=AAAAGIo6fJD6GQ9Ds4teL4z9h9z77oK/, lastSeenAddedAt=2025-11-03T17:39:51Z
+[2025-11-03T17:41:44.875Z] [DEBUG] Current snapshot_id=AAAAGIo6fJD6GQ9Ds4teL4z9h9z77oK/
+[2025-11-03T17:41:44.877Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:42:44.893Z] [DEBUG] Starting check. lastSnapshot=AAAAGIo6fJD6GQ9Ds4teL4z9h9z77oK/, lastSeenAddedAt=2025-11-03T17:39:51Z
+[2025-11-03T17:42:45.543Z] [DEBUG] Current snapshot_id=AAAAGaG1nPK1XRdGko/0UXy3H+HTq2R/
+[2025-11-03T17:42:45.544Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T17:42:45.889Z] [DEBUG] Found total tracks=19, newItems=1
+[2025-11-03T17:42:45.890Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T17:42:45.891Z] [DEBUG] About to notify telegramId=5183071222, adder=سهیل
+[2025-11-03T17:42:45.892Z] [INFO] notify->to:5183071222 Attempting to send message: "سهیل آهنگ جدید اضافه کرد."
+[2025-11-03T17:42:46.384Z] [INFO] notify->to:5183071222 Sent (message_id=11)
+[2025-11-03T17:42:46.742Z] [INFO] Notification sent to 5183071222 regarding addition by سهیل.
+[2025-11-03T17:42:46.745Z] [INFO] State updated.
+[2025-11-03T17:43:44.910Z] [DEBUG] Starting check. lastSnapshot=AAAAGaG1nPK1XRdGko/0UXy3H+HTq2R/, lastSeenAddedAt=2025-11-03T17:42:20Z
+[2025-11-03T17:43:45.665Z] [DEBUG] Current snapshot_id=AAAAGaG1nPK1XRdGko/0UXy3H+HTq2R/
+[2025-11-03T17:43:45.665Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:44:44.920Z] [DEBUG] Starting check. lastSnapshot=AAAAGaG1nPK1XRdGko/0UXy3H+HTq2R/, lastSeenAddedAt=2025-11-03T17:42:20Z
+[2025-11-03T17:44:45.467Z] [DEBUG] Current snapshot_id=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7
+[2025-11-03T17:44:45.468Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T17:44:45.938Z] [DEBUG] Found total tracks=20, newItems=1
+[2025-11-03T17:44:45.939Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T17:44:45.939Z] [DEBUG] About to notify telegramId=668058250, adder=عسل
+[2025-11-03T17:44:45.940Z] [INFO] notify->to:668058250 Attempting to send message: "عسل آهنگ جدید اضافه کرد."
+[2025-11-03T17:44:46.402Z] [INFO] notify->to:668058250 Sent (message_id=12)
+[2025-11-03T17:44:46.757Z] [INFO] Notification sent to 668058250 regarding addition by عسل.
+[2025-11-03T17:44:46.758Z] [INFO] State updated.
+[2025-11-03T17:45:44.936Z] [DEBUG] Starting check. lastSnapshot=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7, lastSeenAddedAt=2025-11-03T17:43:22Z
+[2025-11-03T17:45:45.832Z] [DEBUG] Current snapshot_id=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7
+[2025-11-03T17:45:45.832Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:46:44.950Z] [DEBUG] Starting check. lastSnapshot=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7, lastSeenAddedAt=2025-11-03T17:43:22Z
+[2025-11-03T17:46:45.673Z] [DEBUG] Current snapshot_id=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7
+[2025-11-03T17:46:45.673Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:47:44.956Z] [DEBUG] Starting check. lastSnapshot=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7, lastSeenAddedAt=2025-11-03T17:43:22Z
+[2025-11-03T17:47:45.749Z] [DEBUG] Current snapshot_id=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7
+[2025-11-03T17:47:45.750Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:48:44.970Z] [DEBUG] Starting check. lastSnapshot=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7, lastSeenAddedAt=2025-11-03T17:43:22Z
+[2025-11-03T17:48:45.724Z] [DEBUG] Current snapshot_id=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7
+[2025-11-03T17:48:45.725Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:49:44.974Z] [DEBUG] Starting check. lastSnapshot=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7, lastSeenAddedAt=2025-11-03T17:43:22Z
+[2025-11-03T17:49:45.689Z] [DEBUG] Current snapshot_id=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7
+[2025-11-03T17:49:45.689Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:50:44.976Z] [DEBUG] Starting check. lastSnapshot=AAAAGqlsX5y+mZOSgJhPrAPaQjU2vQb7, lastSeenAddedAt=2025-11-03T17:43:22Z
+[2025-11-03T17:50:45.790Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:50:45.791Z] [INFO] Playlist changed. Fetching tracks to find new additions...
+[2025-11-03T17:50:46.151Z] [DEBUG] Found total tracks=21, newItems=1
+[2025-11-03T17:50:46.152Z] [INFO] Found 1 new track(s). Preparing notifications...
+[2025-11-03T17:50:46.153Z] [DEBUG] About to notify telegramId=5183071222, adder=سهیل
+[2025-11-03T17:50:46.154Z] [INFO] notify->to:5183071222 Attempting to send message: "سهیل آهنگ جدید اضافه کرد."
+[2025-11-03T17:50:46.809Z] [INFO] notify->to:5183071222 Sent (message_id=13)
+[2025-11-03T17:50:47.164Z] [INFO] Notification sent to 5183071222 regarding addition by سهیل.
+[2025-11-03T17:50:47.167Z] [INFO] State updated.
+[2025-11-03T17:51:44.985Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:51:45.719Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:51:45.720Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:52:44.996Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:52:45.571Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:52:45.571Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:53:44.996Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:53:45.556Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:53:45.557Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:54:44.996Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:54:45.588Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:54:45.588Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:55:45.006Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:55:46.058Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:55:46.059Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:56:45.021Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:56:45.600Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:56:45.601Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:57:45.030Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:57:45.686Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:57:45.686Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:58:45.037Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:58:45.832Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:58:45.832Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T17:59:45.041Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T17:59:45.694Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T17:59:45.695Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:00:45.056Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:00:45.735Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:00:45.735Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:01:45.071Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:01:46.954Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:01:46.954Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:02:45.086Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:02:45.701Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:02:45.701Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:03:45.092Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:03:45.722Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:03:45.722Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:04:45.092Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:04:45.824Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:04:45.825Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:05:45.101Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:05:46.013Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:05:46.013Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:06:45.102Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:06:45.795Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:06:45.795Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:07:45.102Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:07:45.644Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:07:45.645Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:08:45.105Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:08:45.774Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:08:45.775Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:09:45.111Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:09:45.822Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:09:45.823Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:10:45.113Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:10:45.841Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:10:45.842Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:11:45.126Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:11:46.164Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:11:46.164Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:12:45.130Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:12:45.778Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:12:45.779Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:13:45.138Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:13:45.685Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:13:45.685Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:14:45.153Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:14:45.740Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:14:45.740Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:15:45.152Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:15:46.132Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:15:46.132Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:16:45.172Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:16:45.844Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:16:45.844Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:17:45.185Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:17:45.814Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:17:45.815Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:18:45.187Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:18:45.810Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:18:45.810Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:19:45.198Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:19:45.850Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:19:45.851Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:20:45.202Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:20:46.028Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:20:46.028Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:21:45.212Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:21:45.794Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:21:45.795Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:22:45.212Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:22:45.869Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:22:45.870Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:23:45.225Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:23:45.838Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:23:45.839Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:24:45.226Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:24:45.814Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:24:45.814Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:25:45.233Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:25:45.804Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:25:45.805Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:26:45.241Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:26:45.887Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:26:45.888Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:27:45.250Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:27:45.785Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:27:45.786Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:28:45.257Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:28:46.098Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:28:46.098Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:29:45.262Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:29:45.839Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:29:45.839Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:30:45.273Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:30:45.960Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:30:45.961Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:31:45.277Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:31:45.902Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:31:45.903Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:32:45.292Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:32:45.816Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:32:45.817Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:33:45.298Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:33:54.020Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:33:54.021Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:34:45.307Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:34:45.825Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:34:45.825Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:35:45.321Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:35:49.725Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:35:49.726Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:36:45.327Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:36:45.970Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:36:45.970Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:37:45.337Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:37:46.013Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:37:46.014Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:38:45.344Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:38:46.017Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:38:46.018Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:39:45.359Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:39:45.956Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:39:45.957Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:40:45.368Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:40:46.132Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:40:46.132Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:41:45.383Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:41:46.437Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:41:46.437Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:42:45.399Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:42:45.969Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:42:45.969Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:43:45.406Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:43:46.152Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:43:46.152Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:44:45.415Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:44:46.989Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:44:46.989Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:45:45.430Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:45:45.994Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:45:45.995Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:46:45.441Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:46:46.003Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:46:46.003Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:47:45.442Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:47:46.010Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:47:46.010Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:48:45.454Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:48:46.031Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:48:46.032Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:49:45.469Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:49:45.999Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:49:45.999Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:50:45.485Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:50:47.409Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:50:47.410Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:51:45.486Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:51:46.048Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:51:46.049Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:52:45.493Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:52:46.051Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:52:46.051Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:53:45.508Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:53:46.095Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:53:46.095Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:54:45.509Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:54:46.265Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:54:46.265Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:55:45.515Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:55:46.105Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:55:46.105Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:56:45.522Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:56:46.229Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:56:46.230Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:57:45.533Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:57:46.109Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:57:46.110Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:58:45.538Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:58:46.157Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:58:46.158Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T18:59:45.539Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T18:59:46.228Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T18:59:46.229Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T19:00:45.541Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T19:00:46.280Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T19:00:46.280Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T19:01:45.545Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T19:01:46.249Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T19:01:46.250Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T19:02:45.549Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T19:02:46.302Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T19:02:46.303Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T19:03:45.561Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T19:03:46.501Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T19:03:46.502Z] [DEBUG] No changes in playlist (snapshot same).
+[2025-11-03T19:04:45.563Z] [DEBUG] Starting check. lastSnapshot=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF, lastSeenAddedAt=2025-11-03T17:49:44Z
+[2025-11-03T19:04:46.214Z] [DEBUG] Current snapshot_id=AAAAG0tOaHt+jUwZo8Sgv9cTwYuskyyF
+[2025-11-03T19:04:46.215Z] [DEBUG] No changes in playlist (snapshot same).
